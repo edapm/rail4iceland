@@ -95,8 +95,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/edapm/rail4iceland/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/edapm/rail4iceland/tree/main/content"
+    Text: "Spelling or Grammatical error? Incorrect info? Please suggest edits here" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
