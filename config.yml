@@ -1,6 +1,6 @@
 baseURL: "https://rail4iceland.netlify.app/"
 title: Rail4Iceland
-paginate: 5
+paginate: 3
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -96,7 +96,7 @@ params:
 
   editPost:
     URL: "https://github.com/edapm/rail4iceland/tree/main/content"
-    Text: "Spelling or Grammatical error? Incorrect info? Please suggest edits here" # edit text
+    Text: "Spelling or Grammatical error?" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
