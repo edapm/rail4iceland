@@ -21,7 +21,7 @@ params:
   keywords: [railways, Iceland]
   author: Edward Mason
   # author: ["Me", "You"] # multiple authors
-  images: ["https://pbs.twimg.com/profile_images/1439552860073730052/i2jWzdN9_400x400.jpg"]
+  images: ["/iceland.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
